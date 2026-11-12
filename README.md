@@ -11,7 +11,7 @@
 | Contributor | Student ID | System Module | Responsibilities & Ownership |
 | :--- | :--- | :--- | :--- |
 | **Member 01 (Lead)** | **IT21313998** | **Vehicle Fleet Management & Admin Subsystem** | Abstract `Vehicle` architecture, concrete classes (`CarVehicle`, `VanCommercialVehicle`), polymorphic dynamic pricing algorithms in LKR, `VehicleDAO` file I/O CRUD engine (`vehicles.txt`), `VehicleServlet` MVC controller, Fleet Admin Dashboard & vehicle management views. |
-| **Member 02** | *Partner* | **Rental Reservation & Booking Subsystem** | Abstract `RentalReservation`, `SelfDriveReservation`, `ChauffeurDrivenReservation`, `RentalDAO`, `RentalServlet`, and customer booking views. |
+| **Member 02** | *IT21218880* | **Rental Reservation & Booking Subsystem** | Abstract `RentalReservation`, `SelfDriveReservation`, `ChauffeurDrivenReservation`, `RentalDAO`, `RentalServlet`, and customer booking views. |
 
 ---
 
