@@ -3,9 +3,7 @@
 
 **Project Topic:** 01. Vehicle Rental Service Platform  
 **System Name:** DriveHub – Premium Vehicle Rental & Chauffeur Fleet Management  
-**Team Composition:** 2 Students:
-- **Member 01 (Lead):** Rasara S.H.K (IT21313998)
-- **Member 02:** Partner (IT21218880)  
+**Team Composition:** 2 Students (Member 01 & Member 02)  
 **IDE & Technology Stack:** IntelliJ IDEA | Java (Jakarta Servlets / JSP) | Bootstrap 5 | Text File Read/Write Operations | Apache Tomcat 10  
 
 ---

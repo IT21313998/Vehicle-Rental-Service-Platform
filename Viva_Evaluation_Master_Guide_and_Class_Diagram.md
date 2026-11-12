@@ -1,7 +1,7 @@
 # DriveHub - Project Viva Evaluation Master Guide & Class Diagram
 **Course:** SE1020 - Object-Oriented Programming (SLIIT)  
 **Project:** DriveHub – Vehicle Rental Service Platform  
-**Target Audience:** Member 01 (IT21313998) & Member 02 (IT21218880)
+**Target Audience:** Member 01 & Member 02
 
 ---
 
