@@ -1,0 +1,6 @@
+VEH101,Mercedes-Benz E-Class AMG,LUXURY_CAR,45000.00,Hybrid,Automatic,5,https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800,true,540,75000.00,true
+VEH102,Range Rover Sport Autobiography,LUXURY_CAR,65000.00,Petrol,Automatic,7,https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=800,true,780,100000.00,true
+VEH103,Tesla Model 3 Performance,LUXURY_CAR,38000.00,Electric,Automatic,5,https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800,true,425,60000.00,true
+VEH104,Ford Transit Executive Passenger Van,COMMERCIAL_VAN,32000.00,Diesel,Automatic,12,https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=800,1650,3500.00,2800,true
+VEH105,Toyota HiAce VIP Commuter,COMMERCIAL_VAN,28000.00,Diesel,Manual,10,https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=800,1200,3000.00,2200,true
+VEH106,Porsche 911 Carrera S,LUXURY_CAR,85000.00,Petrol,Automatic,2,https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800,false,132,150000.00,true
