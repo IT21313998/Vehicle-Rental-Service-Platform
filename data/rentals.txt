@@ -1,0 +1,3 @@
+RNT5001,VEH101,Daniel Craig,daniel.craig@email.com,+94 77 123 4567,2026-11-01,2026-11-05,4,SELF_DRIVE,DL-98234-WP,Unlimited Mileage,Comprehensive Premium,CONFIRMED,224000.00
+RNT5002,VEH102,Victoria Beckham,v.beckham@fashion.uk,+94 71 987 6543,2026-11-10,2026-11-14,4,CHAUFFEUR,Colombo Cinnamon Grand,10000.00,VIP Airport Meet & Greets,CONFIRMED,325000.00
+RNT5003,VEH104,Corporate Events Ltd,events@corporate.com,+94 11 234 5678,2026-12-01,2026-12-08,7,CHAUFFEUR,Bandaranaike Intl Airport,6500.00,Airport Transfers for 10 delegates,PENDING,330500.00
